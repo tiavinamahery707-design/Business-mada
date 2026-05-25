@@ -1,0 +1,6 @@
+{
+  "name": "Business Mada",
+  "description": "Formation et générateur d'idées de business pour travailler ou entreprendre à Madagascar, complétés d’une formation interactive et d'un calculateur financier de rentabilité locale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
